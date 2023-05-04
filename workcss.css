@@ -1,0 +1,39 @@
+.header
+{
+	width:100%;
+	background-color: #F7F3F2;
+}
+
+.nav 
+{
+	
+	float:right;
+	display: inline-flex;
+
+}
+ ul li 
+{
+	list-style: none;
+	font-family: cursive;
+	font-size:20px;
+	
+}
+ul li a 
+{
+	text-decoration:none;
+	padding:17px 15px;
+
+}
+ .main
+{
+background:url('pic.png');
+background-repeat: no-repeat;
+height:100%;
+
+background-size:contain;
+}
+h1
+{
+
+}
+
